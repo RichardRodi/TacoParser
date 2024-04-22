@@ -1,0 +1,17 @@
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\bin\Debug\net8.0\TacoParser.exe
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\bin\Debug\net8.0\TacoParser.deps.json
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\bin\Debug\net8.0\TacoParser.runtimeconfig.json
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\bin\Debug\net8.0\TacoParser.dll
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\bin\Debug\net8.0\TacoParser.pdb
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\bin\Debug\net8.0\GeoCoordinate.NetCore.dll
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.csproj.AssemblyReference.cache
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.AssemblyInfoInputs.cache
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.AssemblyInfo.cs
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.csproj.CoreCompileInputs.cache
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.csproj.Up2Date
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.dll
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\refint\TacoParser.dll
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.pdb
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.genruntimeconfig.cache
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\ref\TacoParser.dll

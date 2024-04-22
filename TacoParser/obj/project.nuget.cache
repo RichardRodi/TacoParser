@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7Fl8XhZX9atccWiuSjIBjEcAGcwcnqSJjp3faX3+q/dBx/fnTWaQluA1BNE4vA2/eP8tZAjmGF0kzNKmiG+Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rich Rodi\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|c:\\users\\rich rodi\\desktop\\redoneprojects\\tacoparser\\tacoparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|solutionrelative:tacoparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rich Rodi\\AppData\\Local\\Temp\\.vsdbgsrc\\365af0975efab538f5cdae19755699b1772611444e1a6146c987bfcf3974f194\\SafeFileHandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|c:\\users\\rich rodi\\desktop\\redoneprojects\\tacoparser\\tacoparser\\tacoparserrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|solutionrelative:tacoparser\\tacoparserrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154D175D-D7A6-44F8-86BA-EA7E7A84FF6D}|TestTacoParser\\TestTacoParser.csproj|c:\\users\\rich rodi\\desktop\\redoneprojects\\tacoparser\\testtacoparser\\tacoparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154D175D-D7A6-44F8-86BA-EA7E7A84FF6D}|TestTacoParser\\TestTacoParser.csproj|solutionrelative:testtacoparser\\tacoparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|c:\\users\\rich rodi\\desktop\\redoneprojects\\tacoparser\\tacoparser\\tacolog\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|solutionrelative:tacoparser\\tacolog\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|c:\\users\\rich rodi\\desktop\\redoneprojects\\tacoparser\\tacoparser\\tacoparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|solutionrelative:tacoparser\\tacoparser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|c:\\users\\rich rodi\\desktop\\redoneprojects\\tacoparser\\tacoparser\\tacobellnfo\\tacobell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|solutionrelative:tacoparser\\tacobellnfo\\tacobell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|c:\\users\\rich rodi\\desktop\\redoneprojects\\tacoparser\\tacoparser\\tacobellnfo\\tacobell-us-al.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|solutionrelative:tacoparser\\tacobellnfo\\tacobell-us-al.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|c:\\users\\rich rodi\\desktop\\redoneprojects\\tacoparser\\tacoparser\\tacolog\\tacologger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|solutionrelative:tacoparser\\tacolog\\tacologger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|c:\\users\\rich rodi\\desktop\\redoneprojects\\tacoparser\\tacoparser\\geocoords\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|solutionrelative:tacoparser\\geocoords\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|c:\\users\\rich rodi\\desktop\\redoneprojects\\tacoparser\\tacoparser\\geocoords\\itrackable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3785BA69-9448-43AD-995D-594C02DD748D}|TacoParser\\TacoParser.csproj|solutionrelative:tacoparser\\geocoords\\itrackable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TacoParserTests.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TestTacoParser\\TacoParserTests.cs",
+              "RelativeDocumentMoniker": "TestTacoParser\\TacoParserTests.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TestTacoParser\\TacoParserTests.cs",
+              "RelativeToolTip": "TestTacoParser\\TacoParserTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:52:31.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TacoParser",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoParser.csproj",
+              "RelativeDocumentMoniker": "TacoParser\\TacoParser.csproj",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoParser.csproj",
+              "RelativeToolTip": "TacoParser\\TacoParser.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T16:32:14.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TacoBell-US-AL.csv",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoBellnfo\\TacoBell-US-AL.csv",
+              "RelativeDocumentMoniker": "TacoParser\\TacoBellnfo\\TacoBell-US-AL.csv",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoBellnfo\\TacoBell-US-AL.csv",
+              "RelativeToolTip": "TacoParser\\TacoBellnfo\\TacoBell-US-AL.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-04-22T16:30:23.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TacoParserRunner.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoParserRunner.cs",
+              "RelativeDocumentMoniker": "TacoParser\\TacoParserRunner.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoParserRunner.cs",
+              "RelativeToolTip": "TacoParser\\TacoParserRunner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:04:14.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILog.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoLog\\ILog.cs",
+              "RelativeDocumentMoniker": "TacoParser\\TacoLog\\ILog.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoLog\\ILog.cs",
+              "RelativeToolTip": "TacoParser\\TacoLog\\ILog.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:01:29.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TacoLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoLog\\TacoLogger.cs",
+              "RelativeDocumentMoniker": "TacoParser\\TacoLog\\TacoLogger.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoLog\\TacoLogger.cs",
+              "RelativeToolTip": "TacoParser\\TacoLog\\TacoLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:03:14.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TacoBell.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoBellnfo\\TacoBell.cs",
+              "RelativeDocumentMoniker": "TacoParser\\TacoBellnfo\\TacoBell.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoBellnfo\\TacoBell.cs",
+              "RelativeToolTip": "TacoParser\\TacoBellnfo\\TacoBell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:02:03.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\GeoCoords\\Point.cs",
+              "RelativeDocumentMoniker": "TacoParser\\GeoCoords\\Point.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\GeoCoords\\Point.cs",
+              "RelativeToolTip": "TacoParser\\GeoCoords\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:00:14.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITrackable.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\GeoCoords\\ITrackable.cs",
+              "RelativeDocumentMoniker": "TacoParser\\GeoCoords\\ITrackable.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\GeoCoords\\ITrackable.cs",
+              "RelativeToolTip": "TacoParser\\GeoCoords\\ITrackable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:59:29.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\Program.cs",
+              "RelativeDocumentMoniker": "TacoParser\\Program.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\Program.cs*",
+              "RelativeToolTip": "TacoParser\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:56:31.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SafeFileHandle.cs",
+              "DocumentMoniker": "C:\\Users\\Rich Rodi\\AppData\\Local\\Temp\\.vsdbgsrc\\365af0975efab538f5cdae19755699b1772611444e1a6146c987bfcf3974f194\\SafeFileHandle.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\365af0975efab538f5cdae19755699b1772611444e1a6146c987bfcf3974f194\\SafeFileHandle.cs",
+              "ToolTip": "C:\\Users\\Rich Rodi\\AppData\\Local\\Temp\\.vsdbgsrc\\365af0975efab538f5cdae19755699b1772611444e1a6146c987bfcf3974f194\\SafeFileHandle.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\365af0975efab538f5cdae19755699b1772611444e1a6146c987bfcf3974f194\\SafeFileHandle.cs [Read Only]",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAjwB0BAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:49:33.63Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
