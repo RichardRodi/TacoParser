@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UF2IcuEZjKp112hNVp7XYdo6JYC3eWYAwFrEriMc1CS9OYq5EpYlzDEcBE6VFEuTNRYtxEHZf0YO5sZRfchhpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rich Rodi\\Desktop\\ReDoneProjects\\TacoParser\\TacoParser\\TacoParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rich Rodi\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\Rich Rodi\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Rich Rodi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.2\\microsoft.netcore.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\Rich Rodi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\Rich Rodi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.2\\microsoft.aspnetcore.app.runtime.win-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -25,7 +25,7 @@ namespace TacoParser.TacoLog
 
         public void LogInfo(string log)
         {
-            Console.WriteLine($"Info: {log}");
+            Console.WriteLine($"Finding Furthest Stores: {log}");
         }
 
         public void LogDebug(string log)

@@ -10,7 +10,7 @@ namespace TacoParser
 
         public ITrackable Parse(string line)
         {
-            logger.LogInfo("Begin parsing");
+            logger.LogInfo("Parsing Data");
             var cells = line.Split(',');
             if (cells.Length < 3)
             {

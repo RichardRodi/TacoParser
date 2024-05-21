@@ -15,3 +15,4 @@ C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0
 C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.pdb
 C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.genruntimeconfig.cache
 C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\ref\TacoParser.dll
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\obj\Debug\net8.0\TacoParser.sourcelink.json

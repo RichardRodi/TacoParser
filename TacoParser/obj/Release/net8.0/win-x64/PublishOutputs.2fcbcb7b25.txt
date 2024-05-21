@@ -1,0 +1,2 @@
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\bin\Release\net8.0\publish\win-x64\TacoParser.pdb
+C:\Users\Rich Rodi\Desktop\ReDoneProjects\TacoParser\TacoParser\bin\Release\net8.0\publish\win-x64\TacoParser.exe

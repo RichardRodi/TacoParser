@@ -52,8 +52,12 @@ namespace TacoParser
                 }
             }
 
-            Console.WriteLine($"\n\nThe Two Furthest Stores from each other are {nearest.Name}, and {furthest.Name},\nThe Distance Between them is {distance} degrees");
+            var distanceInMiles = MetersToMiles.ConvertMetersToMiles(distance);
+            Console.WriteLine($"\n\nThe Two Furthest Stores from each other are {nearest.Name}, and {furthest.Name},\nThe Distance Between them is {distanceInMiles} miles");
             Console.ReadKey();
+
+
         }
     }
+   
 }
